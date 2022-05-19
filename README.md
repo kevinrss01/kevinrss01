@@ -5,7 +5,7 @@
 
 - 🌱 Je suis actuellement en formation de développeur web chez [OpenClassrooms](https://openclassrooms.com/fr/)
 
-- 🧑🏻‍💻 J'ai des connaissances en HTML/CSS/SASS/JavaScript/Node/Express/SQL/React/MongoDb/MySQL
+- 🧑🏻‍💻 J'ai des connaissances en HTML/CSS/SASS/JavaScript/Node/Express/SQL/React/MongoDb/MySQL et en Search Engine Optimization.
 
 - 📫 Vous pouvez me contacter à kevin.rousseau3@gmail.com
 
