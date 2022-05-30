@@ -9,6 +9,6 @@
 
 - 📫 Vous pouvez me contacter à kevin.rousseau3@gmail.com
 
-- 😍 Passion : Passionné par la technologie blockchain, le web3, la boxe et la cuisine
+- 😍 Passionné par la technologie blockchain, le web3, la boxe et la cuisine
 
 
