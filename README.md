@@ -11,6 +11,5 @@
 
 - 📫 Vous pouvez me contacter à kevin.rousseau3@gmail.com
 
-- 😍 Passionné par blockchain, le web3 et la boxe anglaise.
 
 
