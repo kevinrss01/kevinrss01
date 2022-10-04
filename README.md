@@ -1,11 +1,11 @@
 ### Hello world 👋
 
 
-- 🏫 Je prépare un [un bachelor Développement fullstack à l'école IPSSI](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/)
+- 🏫 Je prépare un [un bachelor Développement fullstack à l'école IPSSI](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
 
 - 🏢 Développeur web en alternance à [Eurostep](https://www.eurostep.com/).
 
-- 🎓 Diplômé d'une formation de développeur web chez [OpenClassrooms](https://openclassrooms.com/fr/)
+- 🎓 Diplômé d'une formation de développeur web chez [OpenClassrooms](https://openclassrooms.com/fr/).
 
 - 🧑🏻‍💻 J'ai des connaissances en :
   - HTML/CSS/SASS
@@ -13,7 +13,7 @@
   - Flutter/Dart
   - SQL/MongoDb/MySQL et en SEO.
 
-- 📫 Vous pouvez me contacter à kevin.rousseau3@gmail.com ou sur [linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/)
+- 📫 Vous pouvez me contacter à kevin.rousseau3@gmail.com ou sur [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/).
 
 
 
