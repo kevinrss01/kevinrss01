@@ -13,7 +13,7 @@
   - Flutter/Dart
   - SQL/MongoDb/MySQL et en SEO.
 
-- 📫 Vous pouvez me contacter à kevin.rousseau3@gmail.com
+- 📫 Vous pouvez me contacter à kevin.rousseau3@gmail.com ou sur [linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/)
 
 
 
