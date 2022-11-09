@@ -11,7 +11,7 @@
   - HTML/CSS/SASS
   - JavaScript/ReactJS/Redux/NodeJS
   - Flutter/Dart
-  - SQL/MongoDb/MySQL et en SEO.
+  - SQL/MongoDb/MySQL
 
 - 📫 Vous pouvez me contacter à kevin.rousseau3@gmail.com ou sur [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/).
 
