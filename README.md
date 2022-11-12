@@ -8,7 +8,7 @@
 - 🎓 Diplômé d'une formation de développeur web chez [OpenClassrooms](https://openclassrooms.com/fr/).
 
 - 🧑🏻‍💻 J'ai des connaissances en :
-  - HTML/CSS/SASS
+  - HTML/CSS/SASS/PHP
   - JavaScript/ReactJS/Redux/NodeJS
   - Flutter/Dart
   - SQL/MongoDb/MySQL
