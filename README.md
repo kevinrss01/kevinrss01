@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 
-- 🏫 I am preparing a [fullstack Bachelor development at IPSSI school](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
+- 🏫 I am preparing a [fullstack Bachelor web development at IPSSI school](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
 
 - 🏢 Web developper at [Eurostep](https://www.eurostep.com/).
 
