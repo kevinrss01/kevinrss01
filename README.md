@@ -13,6 +13,8 @@
   - Flutter/Dart
   - SQL/MongoDb/MySQL
 
+- ❤️‍🔥 Passionate about blockchain, web3 and AI. 
+
 - 📫 You can send me a message at kevin.rousseau3@gmail.com or in [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/).
 
 
