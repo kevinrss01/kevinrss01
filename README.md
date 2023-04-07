@@ -9,9 +9,10 @@
 
 - 🧑🏻‍💻 I have knowledge in :
   - HTML/CSS/SASS/JavaScript/Typescript
-  - ReactJS/Redux/NodeJS
+  - ReactJS/Redux/NodeJS/NestJS
   - Flutter/Dart
   - SQL/MongoDb/MySQL/Firebase
+  - Python
 
 - 📫 You can send me a message at kevin.rousseau@protonmail.com or on [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/).
 
