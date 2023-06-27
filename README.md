@@ -8,8 +8,10 @@
 - 🎓 Graduate of web developer training at [OpenClassrooms](https://openclassrooms.com/fr/).
 
 - 🧑🏻‍💻 I have knowledge in :
-  - HTML/CSS/SASS/JavaScript/Typescript
-  - ReactJS/NextJS/Redux/NodeJS/NestJS
+  - HTML/CSS/SASS
+  - JavaScript/Typescript
+  - ReactJS/NextJS/Redux
+  - NodeJS/Express/NestJS
   - Flutter/Dart
   - SQL/MongoDb/MySQL/Firebase
   - Python
