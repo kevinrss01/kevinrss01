@@ -9,8 +9,7 @@
 
 - 🧑🏻‍💻 I have knowledge in :
   - HTML/CSS/SASS/JavaScript/Typescript
-  - PHP/Symphony
-  - ReactJS/Redux/NodeJS/NestJS
+  - ReactJS/NextJS/Redux/NodeJS/NestJS
   - Flutter/Dart
   - SQL/MongoDb/MySQL/Firebase
   - Python
