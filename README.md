@@ -18,7 +18,7 @@
 
 - 📫 You can send me a message at kevin.rousseau@protonmail.com or on [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/).
 
-- 🗂️ [Portfolio minimaliste](https://main--kevin-rousseau.netlify.app/)
+- 🗂️ [My Portfolio](https://www.rousseau-kevin-portfolio.com/)
 
 
 
