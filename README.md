@@ -8,12 +8,12 @@
 - 🎓 Graduate of web developer training at [OpenClassrooms](https://openclassrooms.com/fr/).
 
 - 🧑🏻‍💻 I have knowledge in :
-  - HTML/CSS/SASS
+  - HTML/CSS/SCSS
   - JavaScript/Typescript
   - ReactJS/NextJS/Redux
   - NodeJS/Express/NestJS
   - Flutter/Dart
-  - SQL/MongoDb/MySQL/Firebase
+  - MongoDb/MySQL/Firebase
   - Python
 
 - 📫 You can send me a message at kevin.rousseau@protonmail.com or on [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/).
