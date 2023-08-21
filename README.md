@@ -1,11 +1,11 @@
 ### Hello world 👋
 
 
-- 🏫 I am preparing a [fullstack Bachelor of web development at IPSSI school](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
+- 🏫 I am preparing for a [Bachelor's in fullstack Web Development at IPSSI school](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
 
 - 🏢 Web developer in apprenticeship at [Eurostep](https://www.eurostep.com/).
 
-- 🎓 Graduate of web developer training at [OpenClassrooms](https://openclassrooms.com/fr/).
+- 🎓 Graduated from a web developer training program at [OpenClassrooms](https://openclassrooms.com/fr/).
 
 - 🧑🏻‍💻 I have knowledge in :
   - HTML/CSS/SCSS
