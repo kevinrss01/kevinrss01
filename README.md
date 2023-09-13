@@ -11,10 +11,7 @@
   - HTML/CSS/SCSS
   - JavaScript/Typescript
   - ReactJS/NextJS/Redux
-  - NodeJS/Express/NestJS
-  - Flutter/Dart
-  - MongoDb/MySQL/Firebase
-  - Python
+  - NodeJS/Express/NestJS/Firebase
 
 - 📫 You can send me a message at kevin.rousseau@protonmail.com or on [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/).
 
