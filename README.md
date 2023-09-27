@@ -5,7 +5,7 @@
 - 🎓 **Education**:
   - Currently pursuing a [Bachelor's in Blockchain engineering at ESGI school](https://www.esgi.fr/programmes/ingenierie-blockchain.html).
   - Graduated with a Bachelor's degree in FullStack Development & DevOps from [IPSSI School](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
-  - Completed a web developer training program at [OpenClassrooms](https://openclassrooms.com/fr/).
+  - Completed a web developer training program at [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web).
 
 - 🧑🏻‍💻 **Skills**:
   - **Frontend**: HTML/CSS/SCSS, JavaScript/Typescript, ReactJS/NextJS/Redux
