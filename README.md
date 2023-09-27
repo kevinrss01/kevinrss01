@@ -6,13 +6,11 @@
 
 - 🎓 Graduated with a Bachelor's degree in FullStack Development & DevOps from [IPSSI School](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/)
 
-- 🎓 Graduated from a web developer training program at [OpenClassrooms](https://openclassrooms.com/fr/).
+- 🎓 Completed a web developer training program at [OpenClassrooms](https://openclassrooms.com/fr/).
 
-- 🧑🏻‍💻 I have knowledge in :
-  - HTML/CSS/SCSS
-  - JavaScript/Typescript
-  - ReactJS/NextJS/Redux
-  - NodeJS/Express/NestJS/Firebase
+- 🧑🏻‍💻 Skills:
+  - **Frontend**: HTML/CSS/SCSS, JavaScript/Typescript, ReactJS/NextJS/Redux
+  - **Backend**: NodeJS/Express/NestJS/Firebase
 
 - 📫 You can send me a message at kevin.rousseau@protonmail.com or on [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/).
 
