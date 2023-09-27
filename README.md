@@ -1,9 +1,10 @@
 ### Hello world 👋
 
+- 🏢 FullStack developer in apprenticeship at [Gottaphish](https://gottaphish.com/)
 
-- 🏫 I am preparing for a [Bachelor's in fullstack Web Development at IPSSI school](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
+- 🏫 I am preparing for a [Bachelor's in Blockchain engineering at ESGI school](https://www.esgi.fr/programmes/ingenierie-blockchain.html).
 
-- 🏢 Web developer in apprenticeship at [Eurostep](https://www.eurostep.com/).
+- 🎓 Graduated with a Bachelor's degree in FullStack Development & DevOps from [IPSSI School](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/)
 
 - 🎓 Graduated from a web developer training program at [OpenClassrooms](https://openclassrooms.com/fr/).
 
