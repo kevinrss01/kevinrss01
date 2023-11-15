@@ -9,7 +9,8 @@
 
 - 🧑🏻‍💻 **Skills**:
   - **Frontend**: HTML/CSS/SCSS, JavaScript/Typescript, ReactJS/NextJS/Redux
-  - **Backend**: NodeJS/Express/NestJS/Firebase
+  - **Backend**: NodeJS/Express/NestJS
+  - **Database**: Firebase/MongoDB
 
 - 📫 **Contact**:
   - Email : github.helmet499@passmail.net
