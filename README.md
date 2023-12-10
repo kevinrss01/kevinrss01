@@ -18,8 +18,7 @@
 
 - 🗂️ [My Portfolio](https://www.rousseau-kevin-portfolio.com/)
 
-- My creations : 
-  - Bring your texts to life with [VoiceCheap](https://voicecheap.org/)
+- ✨ Bring your texts to life with [VoiceCheap](https://voicecheap.org/)
 
 
 
