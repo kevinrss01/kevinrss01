@@ -20,6 +20,7 @@
 
 - ✨**My creations:**
   - Bring your texts to life with [VoiceCheap](https://voicecheap.org/)
+  - Your AI-boosted personal trainer [HappyFit](https://happy-fit-front.vercel.app/login)
 
 
 
