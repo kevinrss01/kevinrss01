@@ -11,6 +11,7 @@
   - **Frontend**: HTML/CSS/SCSS, JavaScript/Typescript, ReactJS/NextJS/Redux
   - **Backend**: NodeJS/Express/NestJS
   - **Database**: Firebase/MongoDB
+  - **DevOps**: Docker, Gcloud, AzureDevops
 
 - 📫 **Contact**:
   - Email : github.helmet499@passmail.net
