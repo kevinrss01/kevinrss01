@@ -20,7 +20,7 @@
 - 🗂️ [My Portfolio](https://www.rousseau-kevin-portfolio.com/)
 
 - ✨**My creations:**
-  - Translate any video in any language in few clicks [VoiceCheap](https://voicecheap.ai/) (soon available)
+  - Scale your content globally - Translate any video in any language [VoiceCheap](https://voicecheap.ai/) (soon available)
   - Your AI-boosted personal trainer [HappyFit](https://happy-fit-front.vercel.app/login)
 
 
