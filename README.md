@@ -1,9 +1,8 @@
 ### Hello world 👋
 
-- 🏢 **Current Role**: FullStack developer in apprenticeship at [Gottaphish](https://gottaphish.com/)
+- 🏢 **Current Role**: Software integrator at Canal Plus and [VoiceCheap](https://voicecheap.ai/) Founder.
 
 - 🎓 **Education**:
-  - Currently pursuing a [Bachelor's in Blockchain engineering at ESGI school](https://www.esgi.fr/programmes/ingenierie-blockchain.html).
   - Graduated with a Bachelor's degree in FullStack Development & DevOps from [IPSSI School](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
   - Completed a web developer training program at [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web).
 
