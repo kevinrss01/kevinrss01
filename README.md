@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-- 🏢 **Current Role**: Software integrator at Canal Plus and [VoiceCheap](https://voicecheap.ai/) Founder.
+- 🏢 **Current Role**: Building [VoiceCheap.ai](https://voicecheap.ai/).
 
 - 🎓 **Education**:
   - Graduated with a Bachelor's degree in FullStack Development & DevOps from [IPSSI School](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
