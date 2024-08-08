@@ -7,10 +7,10 @@
   - Completed a web developer training program at [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web).
 
 - 🧑🏻‍💻 **Skills**:
-  - **Frontend**: HTML/CSS/SCSS, JavaScript/Typescript, ReactJS/NextJS/Redux
-  - **Backend**: NodeJS/Express/NestJS
-  - **Database**: Firebase/MongoDB
-  - **DevOps**: Docker, Gcloud, AzureDevops
+  - **Frontend**: HTML/CSS/SCSS/Tailwind, JavaScript/Typescript, ReactJS/NextJS/Redux/Vite/Zustand, Cypress
+  - **Backend**: NodeJS/Express/NestJS/Bun/Python/SQL
+  - **Database**: Firebase/MongoDB/MySQL
+  - **DevOps**: Docker, Gcloud, AzureDevops, Vercel, Docker
 
 - 📫 **Contact**:
   - Email : github.helmet499@passmail.net
