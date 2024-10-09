@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 🏢 **Current Role**:
-  - Building [VoiceCheap.ai](https://voicecheap.ai/).
+  - Building [VoiceCheap](https://voicecheap.ai/) for video translations indistinguishable from originals 🌐
   - Frontend Developer at [KRNO](https://www.linkedin.com/company/krno-accompagnateur-dpe/posts/?feedView=all)
 
 - 🎓 **Education**:
