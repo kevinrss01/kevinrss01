@@ -1,6 +1,8 @@
 ### Hello world 👋
 
-- 🏢 **Current Role**: Building [VoiceCheap.ai](https://voicecheap.ai/).
+- 🏢 **Current Role**:
+  - Building [VoiceCheap.ai](https://voicecheap.ai/).
+  - Frontend Developer at [KRNO](https://www.linkedin.com/company/krno-accompagnateur-dpe/posts/?feedView=all)
 
 - 🎓 **Education**:
   - Graduated with a Bachelor's degree in FullStack Development & DevOps from [IPSSI School](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
