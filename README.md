@@ -15,7 +15,6 @@
   - **DevOps**: Docker, Gcloud, AzureDevops, Vercel, Docker
 
 - 📫 **Contact**:
-  - Email : github.helmet499@passmail.net
   - [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/)
 
 - 🗂️ [My Portfolio](https://www.rousseau-kevin-portfolio.com/)
