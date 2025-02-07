@@ -2,7 +2,7 @@
 
 - 🏢 **Current Role**:
   - Building [VoiceCheap](https://voicecheap.ai/) for video translations indistinguishable from originals 🌐
-  - Fullstack Developer at [KRNO](https://www.linkedin.com/company/krno-accompagnateur-dpe/posts/?feedView=all)
+  - Fullstack Developer at [KRNO](https://krno.fr)
 
 - 🎓 **Education**:
   - Graduated with a Bachelor's degree in FullStack Development & DevOps from [IPSSI School](https://ecole-ipssi.com/formations-informatique/bachelor-developpeur-fullstack-devops/).
