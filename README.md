@@ -21,7 +21,7 @@
 - ✨**My creations:**
   - Scale your content globally - Translate any video in any language [VoiceCheap](https://voicecheap.ai/)
   - Transform long videos into engaging short-form content optimized for social media with [MagicCuts](https://magiccuts.pro/)
-  - [SilenceCut](https://silencecut.com) - To automatically remove all annoying silences from your videos
+  - To automatically remove all annoying silences from your videos [SilenceCut](https://silencecut.com) -
   - Your AI-boosted personal trainer [HappyFit](https://happy-fit-front.vercel.app/login)
 
 
