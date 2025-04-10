@@ -9,9 +9,9 @@
 
 - 🧑🏻‍💻 **Skills**:
   - **Frontend**: HTML/CSS/SCSS/Tailwind, JavaScript/Typescript, ReactJS/NextJS/Redux/Vite/Zustand, Cypress
-  - **Backend**: NodeJS/Express/NestJS/Bun/Python/SQL
-  - **Database**: Firebase/MongoDB/MySQL
-  - **DevOps**: Docker, Gcloud, AzureDevops, Vercel, Docker
+  - **Backend**: NodeJS/Express/NestJS/Bun/Python/SQL/Amplify
+  - **Database**: Firebase/MongoDB/MySQL/DynamoDB
+  - **DevOps**: Docker, Gcloud, AzureDevops, Vercel, Docker, AWS
 
 - 📫 **Contact**:
   - [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/)
