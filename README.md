@@ -1,6 +1,7 @@
 ### Hello world 👋
 
 - 🏢 **Current Role**:
+  - Fullstack Developer at [KRNO](https://krno.fr/)
   - Building [VoiceCheap](https://voicecheap.ai/) for video translations indistinguishable from originals 🌐
 
 - 🎓 **Education**:
