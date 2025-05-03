@@ -10,7 +10,7 @@
 
 - 🧑🏻‍💻 **Skills**:
   - **Frontend**: HTML/CSS/SCSS/Tailwind, JavaScript/Typescript, ReactJS/NextJS/Redux/Vite/Zustand, Cypress
-  - **Backend**: NodeJS/Express/NestJS/Bun/Python/SQL/Amplify
+  - **Backend**: NodeJS/Express/NestJS/Bun/Python/SQL/Amplify/FFMPEG
   - **Database**: Firebase/MongoDB/MySQL/DynamoDB
   - **DevOps**: Docker, Gcloud, AzureDevops, Vercel, Docker, AWS
 
