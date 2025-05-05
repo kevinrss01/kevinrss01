@@ -2,7 +2,7 @@
 
 - 🏢 **Current Role**:
   - Building [VoiceCheap](https://voicecheap.ai/) for video translations indistinguishable from originals 🌐
-  - Fullstack Developer at [KRNO](https://krno.fr/)
+  - Fullstack Engineer at [KRNO](https://krno.fr/)
 
 - 🧑🏻‍💻 **Skills**:
   - **Frontend**: HTML/CSS/SCSS/Tailwind, JavaScript/Typescript, ReactJS/NextJS/Redux/Vite/Zustand, Cypress
