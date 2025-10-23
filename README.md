@@ -16,7 +16,7 @@
 - 📫 **Contact**:
   - [Linkedin](https://www.linkedin.com/in/kevin-rousseau-20a7b11b5/)
 
-- ✨**My creations:**
+- ✨**My projects:**
   - Scale your content globally - Translate any video in any language [VoiceCheap](https://voicecheap.ai/)
   - Transform long videos into engaging short-form content optimized for social media with [MagicCuts](https://magiccuts.pro/)
   - To automatically remove all annoying silences from your videos [SilenceCut](https://silencecut.com) -
