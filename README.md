@@ -18,6 +18,7 @@
 
 - ✨**My projects:**
   - Scale your content globally - Translate any video in any language [VoiceCheap](https://voicecheap.ai/)
+  - Edit any video into any style with prompts not timelines [Framedeck](https://framedeck.ai)
   - Find you next startup idea with [MyStartupIdea](https://mystartupidea.io)
   - Transform long videos into engaging short-form content optimized for social media with [MagicCuts](https://magiccuts.pro/) (OPEN SOURCE)
   - To automatically remove all annoying silences from your videos [SilenceCut](https://silencecut.com) - 
