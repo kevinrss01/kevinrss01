@@ -4,7 +4,7 @@
   - Building [VoiceCheap](https://voicecheap.ai/) for video translations indistinguishable from originals 🌐
 
 - 🧑🏻‍💻 **Skills**:
-  - **Frontend**: HTML/CSS/SCSS/Tailwind, JavaScript/Typescript, ReactJS/NextJS/Redux/Vite/Zustand, Cypress
+  - **Frontend**: HTML/CSS/SCSS/Tailwind, JavaScript/Typescript, ReactJS/NextJS/Redux/Vite/Zustand, Cypress, Remotion
   - **Backend**: NodeJS/Express/NestJS/Bun/Python/SQL/Amplify/FFMPEG/Rust
   - **Database**: Firebase/MongoDB/MySQL/DynamoDB
   - **DevOps**: Docker, Gcloud, AzureDevops, Vercel, Docker, AWS
