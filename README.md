@@ -1,9 +1,8 @@
 ### Hello world 👋
 
 - 🏢 **Current Role**:
-  - Lead dev full-stack at [Copyfy](https://copyfy.io/) 
+  - Lead Typescript dev at [Copyfy](https://copyfy.io/) 
   - Building [VoiceCheap](https://voicecheap.ai/) for video translations indistinguishable from originals 🌐
-  - Building [Framedeck](https://framedeck.ai) to edit any video with prompts instead of timelines. 📹
 
 - 🧑🏻‍💻 **Skills**:
   - **Frontend**: HTML/CSS/SCSS/Tailwind, JavaScript/Typescript, ReactJS/NextJS/Redux/Vite/Zustand, Cypress, Remotion
