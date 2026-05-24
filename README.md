@@ -2,7 +2,7 @@
 
 - 🏢 **Current Role**:
   - Lead Typescript dev at [Copyfy](https://copyfy.io/) 
-  - Building [VoiceCheap](https://voicecheap.ai/) for video translations indistinguishable from originals 🌐
+  - Building [VoiceCheap](https://voicecheap.ai/) and [VoiceCheapStudio](https://voicecheapstudio.com/) for video translations indistinguishable from originals 🌐
 
 - 🧑🏻‍💻 **Skills**:
   - **Frontend**: HTML/CSS/SCSS/Tailwind, JavaScript/Typescript, ReactJS/NextJS/Redux/Vite/Zustand, Cypress, Remotion
