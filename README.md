@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 🏢 **Current Role**:
-  - Lead Typescript dev at [Copyfy](https://copyfy.io/) 
+  - Lead dev at [Copyfy](https://copyfy.io/) 
   - Building [VoiceCheap](https://voicecheap.ai/) and [VoiceStudio](https://tryvoicestudio.com/) for video translations indistinguishable from originals 🌐
 
 - 🧑🏻‍💻 **Skills**:
