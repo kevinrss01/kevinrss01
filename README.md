@@ -19,7 +19,7 @@
 
 - ✨**My projects:**
   - Translate any video in any language [VoiceCheap](https://voicecheap.ai/)
-  - AI native dubbing Agency  [VoiceCheapStudio](https://voicecheapstudio.com/)
+  - AI native dubbing Agency  [VoiceStudio](https://tryvoicestudio.com/)
   - Open-source AI video editor [Framedeck](https://framedeck.ai)
   - Transform long videos into engaging short-form content optimized for social media with [MagicCuts](https://magiccuts.tech/) (OPEN SOURCE)
   - To automatically remove all annoying silences from your videos [SilenceCut](https://silencecut.com) - 
